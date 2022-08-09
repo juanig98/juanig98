@@ -8,6 +8,7 @@
 [![GitHub juanig98](https://img.shields.io/github/followers/juanig98?label=follow&style=social)](https://github.com/juanig98)
 
 ```python
+from Argentina import *
 
 def juanig(self,):
     self.lenguages = [Javascript, Typescript, PHP, Python, SQL]
