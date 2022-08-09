@@ -19,4 +19,7 @@ def juanig(self,):
 MATE = '\U0001f9c9' # 🧉
 ```
 
-<h3>Keep calm  <img src="https://c.tenor.com/qg324pNzm50AAAAC/server-is-fine-burn.gif" width="80"/></h3>
+<div align='right'>
+<h3>Keep calm </h3>
+<img src="https://c.tenor.com/qg324pNzm50AAAAC/server-is-fine-burn.gif" width="120"/>
+</div>
