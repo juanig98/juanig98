@@ -11,8 +11,8 @@
 from Argentina import *
 
 def juanig(self,):
-    self.lenguages = [Javascript, Typescript, C#, Python, Java, PHP, SQL]
-    self.skills = [Angular, NodeJS, Nestjs, .NET, PrimeFaces, Java, PHP, HTML, CSS]
+    self.lenguages = [Javascript, Typescript, 'C#', Python, Java, PHP, SQL]
+    self.skills = [Angular, NodeJS, Nestjs, '.NET', PrimeFaces, Java, PHP, HTML, CSS]
     self.know_a_bit = [TailwindCss, Docker, Vue3, Bootstrap]
     self.like = [Linux, FreeSoftware, Development, BusinessModeling, MATE]
     
